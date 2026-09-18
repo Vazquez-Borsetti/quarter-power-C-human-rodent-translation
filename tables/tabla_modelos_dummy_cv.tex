@@ -1,0 +1,17 @@
+\begin{table}
+\caption{Comparison of joint models fitted by weighted non-linear least squares (WLS). Models are ranked according to cross-validated RMSE (5-fold CV). Equation numbers refer to the mathematical formulations described in the Methods section.}
+\label{tab:model_comparison}
+\begin{tabular}{llp{6cm}rr}
+\toprule
+Model & Equation & Description & Parameters (k) & CV-WRMSE \\
+\midrule
+M1 & (7) & Quarter-power + c & 4 & 2.9628577604222928 \\
+M3 & (9) & Group-specific exponent + c & 6 & 3.1179054416876686 \\
+Mlog & (6) & Logarithmic + c & 4 & 3.166323677248186 \\
+M2 & (8) & Shared exponent + c & 5 & 3.240437784130356 \\
+M2NC & (1) & Shared exponent (no const) & 3 & 3.396843202637236 \\
+M3NC & (1) & Group-specific exponent (no const) & 4 & 3.4531339818851023 \\
+M1NC & (2) & Quarter-power (no const) & 2 & 3.9284469435196256 \\
+\bottomrule
+\end{tabular}
+\end{table}
