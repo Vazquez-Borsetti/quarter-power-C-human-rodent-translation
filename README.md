@@ -50,7 +50,6 @@ The species dummy ($D$) allows slope/intercept/exponent to differ between rodent
 
 ## Data
 
-The dataset (`data/dataset_mrh_0.9.csv`) is the same curated mouse–rat–human developmental dataset described in [paper1data](../paper1data/README.md); see [`data/DATA_DICTIONARY.md`](data/DATA_DICTIONARY.md) for column definitions.
 The dataset (`data/dataset_mrh_0.9.csv`) is the same curated mouse–rat–human developmental dataset described in the [Mouse-Rat-Human Development](https://github.com/Vazquez-Borsetti/mouse-rat-human-development) repository; see [`data/DATA_DICTIONARY.md`](data/DATA_DICTIONARY.md) for column definitions.
 ---
 
