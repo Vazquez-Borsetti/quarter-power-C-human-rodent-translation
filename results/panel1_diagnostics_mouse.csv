@@ -1,0 +1,4 @@
+Transformation,n,BP p,White p,Heterosc?,RESET OLS p,RESET HC3 F,RESET HC3 p,Non-linear?
+Raw  (Human -> Mouse),195,0.0,0.0,YES,0.0,38.599,0.0,YES
+log-X  (ln(Human) -> Mouse),195,0.0,0.0,YES,0.0,0.648,0.4217,no
+log-log (ln(Human) -> ln(Mouse)),195,0.0,0.0,YES,0.0,4.67,0.0319,YES
