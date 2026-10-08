@@ -288,8 +288,8 @@ panel_subplot_letters = {
 
 params_quarter_plus_c = {
     "rat": {
-        "b": 10.4042,
-        "c": -12.526
+        "b": 10.3716,
+        "c": -12.4535
     },
     "mouse": {
         "b": 8.7156,
