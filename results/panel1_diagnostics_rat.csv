@@ -1,4 +1,0 @@
-Transformation,n,BP p,White p,Heterosc?,RESET OLS p,RESET HC3 F,RESET HC3 p,Non-linear?
-Raw  (Human -> Rat),183,0.0,0.0,YES,0.0,9.595,0.0023,YES
-log-X  (ln(Human) -> Rat),183,0.0,0.0,YES,0.0005,1.605,0.2068,no
-log-log (ln(Human) -> ln(Rat)),183,0.0,0.0,YES,0.0,19.048,0.0,YES
